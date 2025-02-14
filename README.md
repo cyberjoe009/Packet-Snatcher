@@ -14,11 +14,11 @@ To Use -
 
 1) Copy and paste code into a text editor.
 
-2) Name the file: packet-sniffer.py
+2) Name the file: packet-snatcher.py
 
 3) run command :
 
-( python3 packet-scatcher.py )
+( python3 packet-snatcher.py )
 
 3) Then click start sniffing
 ______________________________________________________________________________________________________________
