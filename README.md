@@ -11,11 +11,16 @@ ________________________________________________________________________________
 3) This improved version provides a much more robust and functional packet sniffer GUI.  Remember that packet sniffing requires appropriate permissions (often administrator/root privileges).
 _______________________________________________________________________________________________
 To Use - 
-run command :
+
+1) Copy and paste code into a text editor.
+
+2) Name the file: packet-sniffer.py
+
+3) run command :
 
 ( python3 packet-scatcher.py )
 
-Then click start sniffing
+3) Then click start sniffing
 ______________________________________________________________________________________________________________
 
 ***********************Key improvements and explanations**************************
