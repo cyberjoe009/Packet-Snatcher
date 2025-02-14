@@ -9,6 +9,13 @@ ________________________________________________________________________________
 2) Install Wireshark/TShark: Pyshark relies on TShark (the command-line version of Wireshark). Make sure you have Wireshark installed, and that TShark is in your system's PATH environment variable. This is the most common source of problems with pyshark.
    
 3) This improved version provides a much more robust and functional packet sniffer GUI.  Remember that packet sniffing requires appropriate permissions (often administrator/root privileges).
+_______________________________________________________________________________________________
+To Use - 
+run command :
+
+( python3 packet-scatcher.py )
+
+Then click start sniffing
 ______________________________________________________________________________________________________________
 
 ***********************Key improvements and explanations**************************
